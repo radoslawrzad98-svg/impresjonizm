@@ -1,0 +1,8 @@
+monet-impresja-wschod-slonca.jpg -> Claude Monet
+degas-praczki.jpg -> Edgar Degas
+courbet-pracownia-malarza.jpg -> os 1
+seurat-kapiacy-sie-w-asnieres.jpg -> os 2
+monet-dworzec-saint-lazare.jpg -> os 3
+monet-la-grenouillere.jpg -> os 4
+monet-bulwar-kapucynow.jpg -> os 5
+seurat-niedziela-grande-jatte.jpg -> os 6 (dziedzictwo)
